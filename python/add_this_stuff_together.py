@@ -4,8 +4,8 @@ a = [5, 6, 3]
 b = [9, 9, 9]
 
 def add_these(array1, array2):
-	d = [0]
 	c = []
+	d = [0]
 
 	while array1:
 
